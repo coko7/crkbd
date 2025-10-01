@@ -23,7 +23,7 @@ To better understand how I use my keyboard, I have *split* the layout in two par
 
 ### Hardware Layout
 
-I primarly use two layers (layer 0 and 1) for most of my daily work.
+I primarily use two layers (layer 0 and 1) for most of my daily work.
 I have two additional layers for extra keys I might need at times.
 
 **Default Layer:** Letters and common symbols
@@ -39,13 +39,15 @@ I have two additional layers for extra keys I might need at times.
 ![Layer 3](./images/layer_3.png)
 
 These screenshots were taken directly from the VIAL desktop application: https://get.vial.today/download/
+> [!IMPORTANT]  
+> Screenshots may not be up to date. Check `keymap.vim` for the actual layout.
 
 ### Software Layout
 
 I have recently moved from QWERTY over to [Ergo-L](https://ergol.org/).
 Similarly to [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout) or [Colemack](https://en.wikipedia.org/wiki/Colemak), Ergo-L is an ergonomic keyboard layout.
 
-Ergo-L is well thought out and optimized for typing in French, English and offering an easy access to programming symbols.
+Ergo-L is well thought out and optimized for typing in French, English, and offering an easy access to programming symbols.
 The layout comes with four main "layers":
 - Default layer for letters and other characters
 - [Shift](https://en.wikipedia.org/wiki/Shift_key) modifier for uppercase letters and other alternate characters
@@ -54,13 +56,13 @@ The layout comes with four main "layers":
 
 It's a really cool project and it fits my use case perfectly!
 
-I recommend taking a look at their website. It is full of useful information and also has some very good advice when it comes to learning a new keyboard layout.
+I recommend taking a look at their website. It is full of useful information and has some excellent advice when it comes to learning a new keyboard layout.
 
 **Website:** https://ergol.org/
 
 > [!NOTE]
-> If we consider both hardware and software layouts, it would give a total of seven different layers.
-> And if I were to map all of the main 36 keys in each layer, I could have **252 different keys**.
+> If we consider both pieces of hardware and software layouts, it would give a total of seven different layers.
+> And if I were to map all the main 36 keys in each layer, I could have **252 different keys**.
 > That's more than twice the amount of keys on a full size keyboard BUT with them being WAY closer together.
 
 ## Pictures
