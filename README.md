@@ -3,6 +3,8 @@
 VIAL config for my Corne (foostan/crkbd) RGB keyboard.
 The keyboard config is in [keymap.vil](./keymap.vil).
 
+![Keyboard Picture RGB Rainbow Glow](./images/crkbd_choc_rgb_transparent_small_cropped.png)
+
 ## Keyboard Specs
 
 These are the specs for my keyboard:
@@ -65,6 +67,8 @@ I recommend taking a look at their website. It is full of useful information and
 > And if I were to map all the main 36 keys in each layer, I could have **252 different keys**.
 > That's more than twice the amount of keys on a full size keyboard BUT with them being WAY closer together.
 
-## Pictures
+## Previous keyboard
 
-![Keyboard Picture RGB Rainbow Glow](./images/crkbd_choc_rgb.jpg)
+The 46 keys corne was not my first ergo keyboard.
+
+I started with a Sofle RGB: [coko7/sofle](https://github.com/coko7/sofle)
