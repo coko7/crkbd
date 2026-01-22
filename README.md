@@ -41,8 +41,8 @@ I have two additional layers for extra keys I might need at times.
 ![Layer 3](./images/layer_3.png)
 
 These screenshots were taken directly from the VIAL desktop application: https://get.vial.today/download/
-> [!IMPORTANT]  
-> Screenshots may not be up to date. Check `keymap.vim` for the actual layout.
+> [!IMPORTANT]
+> Screenshots may not be up to date. Check `keymap.vil` for the actual layout.
 
 ### Software Layout
 
