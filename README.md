@@ -15,7 +15,8 @@ These are the specs for my keyboard:
 - Firmware: [VIAL](https://get.vial.today/) ([QMK](https://github.com/qmk/qmk_firmware) fork)
 - Vendor: [Keebart](https://www.keebart.com/) ([keyboard reference](https://www.keebart.com/products/corne))
 - RGB Lighting: yes
-- QMK keyboard id: `crkbd/rev4_1`
+- QMK keyboard id: `crkbd/rev4_1/standard`
+- QMK layout: `LAYOUT_split_3x6_3_ex2`
 
 ## Layout
 
@@ -28,21 +29,10 @@ To better understand how I use my keyboard, I have *split* the layout in two par
 I primarily use two layers (layer 0 and 1) for most of my daily work.
 I have two additional layers for extra keys I might need at times.
 
-**Default Layer:** Letters and common symbols
-![Default Layer (Layer 0)](./images/layer_0.png)
-
-**Layer 1 (NavNum):** Numbers, navigation keys and media keys
-![Layer 1](./images/layer_1.png)
-
-**Layer 2:** Function Keys (F1 - F20)
-![Layer 2](./images/layer_2.png)
-
-**Layer 3:** Mouse actions and RGB control
-![Layer 3](./images/layer_3.png)
-
-These screenshots were taken directly from the VIAL desktop application: https://get.vial.today/download/
-> [!IMPORTANT]
-> Screenshots may not be up to date. Check `keymap.vil` for the actual layout.
+![keymap SVG](./images/keymap.svg)
+> ![NOTE]
+> - Converted `keymap.vil` to `keymap-generated.yaml` with [vial-to-keymap-drawer](https://yal-tools.github.io/vial-to-keymap-drawer)
+> - Generated `images/keymap.svg` by loading `keymap-generated.yaml` in [keymap-drawer](https://keymap-drawer.streamlit.app)
 
 ### Software Layout
 
