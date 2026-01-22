@@ -9,7 +9,7 @@ The keyboard config is in [keymap.vil](./keymap.vil).
 
 These are the specs for my keyboard:
 - Keyboard: [Corne (foostan/crkbd)](https://github.com/foostan/crkbd) (v4.1)
-- Total keys: 46 (3 × 6 + 5)
+- Total keys: 46 (2 x (3 × 6 + 3 + 2))
 - Switches: [Kailh Choc v1 Brown](https://chosfox.com/products/kailh-chocs)
 - Keycaps: [MBK Legend‡ Glow R2](https://fkcaps.com/keycaps/mbk/legend-glow-r2)
 - Firmware: [VIAL](https://get.vial.today/) ([QMK](https://github.com/qmk/qmk_firmware) fork)
@@ -30,8 +30,8 @@ I primarily use two layers (layer 0 and 1) for most of my daily work.
 I have two additional layers for extra keys I might need at times.
 
 ![keymap SVG](./images/keymap.svg)
-> ![NOTE]
-> - Converted `keymap.vil` to `keymap-generated.yaml` with [vial-to-keymap-drawer](https://yal-tools.github.io/vial-to-keymap-drawer)
+> [!NOTE]
+> - Converted `keymap.vil` to `keymap-generated.yaml` with [vial-to-keymap-drawer](https://yal-tools.github.io/vial-to-keymap-drawer) (see: [v2kmd-settings.json](./v2kmd-settings.json))
 > - Generated `images/keymap.svg` by loading `keymap-generated.yaml` in [keymap-drawer](https://keymap-drawer.streamlit.app)
 
 ### Software Layout
