@@ -102,10 +102,10 @@ layers:
     - F4
     - F5
     - "▽"
-    - F8
+    - "▽"
     - F6
     - F7
-    - "Mouse\nUp"
+    - F8
     - F9
     - F10
     - F11
@@ -117,9 +117,9 @@ layers:
     - null
     - "Mouse\n3"
     - "▽"
-    - null
     - "Mouse\nLeft"
     - "Mouse\nDown"
+    - "Mouse\nUp"
     - "Mouse\nRight"
     - null
     - F12
