@@ -30,7 +30,7 @@ First, it's important to distinguish between these two:
 ![keymap SVG](./images/keymap.svg)
 
 > [!NOTE]
-> - Converted [keymap.vil](./vil/keymap.vil) to [keymap-generated.yaml](./v2kmd/keymap-generated.yaml) with [vial-to-keymap-drawer](https://yal-tools.github.io/vial-to-keymap-drawer) (see: [v2kmd-settings.json](./v2kmd-settings.json))
+> - Converted [keymap.vil](./vil/keymap.vil) to [keymap-generated.yaml](./v2kmd/keymap-generated.yaml) with [vial-to-keymap-drawer](https://yal-tools.github.io/vial-to-keymap-drawer) (see: [v2kmd-settings.json](./v2kmd/settings.json))
 > - Manually edited [keymap-generated.yaml](./v2kmd/keymap-generated.yaml) and saved to [keymap.yaml](./v2kmd/keymap.yaml)
 > - Generated [keymap.svg](./images/keymap.svg) by loading [keymap.yaml](./v2kmd/keymap.yaml) into [keymap-drawer](https://keymap-drawer.streamlit.app)
 
